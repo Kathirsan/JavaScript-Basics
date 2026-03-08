@@ -10,3 +10,9 @@ starbucks();
 function user(){
     console.log("customer")
 }
+const water =setInterval(()=>{
+    console.log("thanni kudi");
+},5000);
+setTimeout(()=>clearInterval(water),15000
+
+);
