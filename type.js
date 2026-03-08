@@ -1,3 +1,2 @@
-let a ="silk";
-a="raja"
-console.log(a)
+const hero=(name)=>console.log(`favourite hero ${name} like`);
+hero("rajini")
