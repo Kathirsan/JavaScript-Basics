@@ -2,7 +2,7 @@ const hero=(name)=>console.log(`favourite hero ${name} like`);
 hero("rajini");
 var gandhiji="father of nation";
 console.log(gandhiji);
-function starbucks(){
+/*function starbucks(){
     console.log("waiter");
     user()
 }
@@ -15,4 +15,14 @@ const water =setInterval(()=>{
 },5000);
 setTimeout(()=>clearInterval(water),15000
 
-);
+);*/
+let singam = {
+    hero:"surya",
+    heroine:"anushka",
+    comedian:"vivek",
+    villain:"pirakashraj",
+    year :2010
+};
+console.log(singam);
+console.log(singam.year);
+
