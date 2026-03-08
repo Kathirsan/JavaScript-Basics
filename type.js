@@ -25,4 +25,5 @@ let singam = {
 };
 console.log(singam);
 console.log(singam.year);
+console.log(Object.keys(singam));
 
