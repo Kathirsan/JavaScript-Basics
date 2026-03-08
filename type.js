@@ -27,3 +27,6 @@ console.log(singam);
 console.log(singam.year);
 console.log(Object.keys(singam));
 
+let price =[100,500,1000,695,1250,850,160];
+let filteredprice=price.filter(cost=>cost<=500);
+console.log(filteredprice);
