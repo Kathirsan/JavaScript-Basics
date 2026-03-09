@@ -40,4 +40,3 @@ console.log(double1)
 let double2=numbers.map(num=>num*5);
 console.log(double2);
 console.log("jemini");
-console.log("end");
