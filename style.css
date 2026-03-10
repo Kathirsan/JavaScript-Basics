@@ -23,3 +23,7 @@ margin: 50px;
     direction: rtl;
     font: 1em sans-serif;
 }
+#hint{
+    nav-down: auto;
+    overflow: hidden;
+}
