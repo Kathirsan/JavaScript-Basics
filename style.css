@@ -13,3 +13,8 @@ margin: 50px;
     font-weight: 100;
     font-family: 'Courier New', Courier, monospace;
 }
+#poster{
+    align-self: start;
+    border-color: antiquewhite;
+    content: none;
+}
