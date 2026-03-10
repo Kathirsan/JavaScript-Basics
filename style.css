@@ -18,3 +18,8 @@ margin: 50px;
     border-color: antiquewhite;
     content: none;
 }
+#info{
+    pointer-events: visible;
+    direction: rtl;
+    font: 1em sans-serif;
+}
