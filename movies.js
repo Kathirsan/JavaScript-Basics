@@ -3,3 +3,4 @@ function start(){
     console.log("start function")
 }
 start();
+console.log("function");
