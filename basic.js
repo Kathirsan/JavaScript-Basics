@@ -35,7 +35,7 @@ console.log(double);
 let double1=numbers.map(function(num){
     return num**2;
 });
-console.log(double1)
+console.log(double2)
 //method4
 let double2=numbers.map(num=>num*5);
 console.log(double2);
