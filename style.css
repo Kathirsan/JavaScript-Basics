@@ -1,0 +1,32 @@
+.card{
+padding: auto;
+margin: 50px;
+}
+#movieName{
+    padding-left: 10px;
+}
+#fetcBtn{
+    color: blue;
+}
+#error{
+    margin-top: auto;
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+}
+#poster{
+    align-self: start;
+    border-color: antiquewhite;
+    content: none;
+}
+#info{
+    pointer-events: visible;
+    direction: rtl;
+    font: 1em sans-serif;
+}
+#hint{
+    nav-down: auto;
+    overflow: hidden;
+
+}
+
+
